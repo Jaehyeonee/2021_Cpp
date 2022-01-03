@@ -1,5 +1,12 @@
 //분수 사칙연산 + 대분수 구현
 
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+
 class Fraction {
 protected:
 
