@@ -1,3 +1,9 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
 class Fraction {
     //int whole;
     int numerator, denominator; // 분자, 분모
